@@ -1,0 +1,14 @@
+{
+  "name": "contracts",
+  "version": "1.0.0",
+  "description": "JavaScript contracts homework",
+  "main": "contracts.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^11.1.0"
+  }
+}
